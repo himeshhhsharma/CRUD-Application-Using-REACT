@@ -6,6 +6,7 @@ This project is a simple **CRUD** (Create, Read, Update, Delete) application bui
 -Delete tasks.
 -View the list of tasks.
 
+
 ###Features
 A user-friendly interface to manage to-do items.
 Real-time updates with React state management.
