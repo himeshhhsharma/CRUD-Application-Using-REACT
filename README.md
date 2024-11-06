@@ -4,8 +4,11 @@
 This project is a simple **CRUD** (Create, Read, Update, Delete) application built using React. The app allows users to manage their to-do list with the following functionalities:
 
 -Add new tasks.
+
 -Edit existing tasks.
+
 -Delete tasks.
+
 -View the list of tasks.
 
 
